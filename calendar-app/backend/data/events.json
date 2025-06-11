@@ -1,0 +1,23 @@
+[
+  {
+    "id": "9f0d0ce6-d5b5-4ccf-a540-f59b559757fe",
+    "title": "Xbox",
+    "description": "Gran Presentacion",
+    "date": "2025-06-08",
+    "category": "Showcase"
+  },
+  {
+    "id": "f60d6716-8d96-4c46-9900-5f21619ea126",
+    "title": "Nintendo Switch 2",
+    "description": "La mejor consola portatil de Nintendo.",
+    "date": "2025-06-05",
+    "category": "Gaming"
+  },
+  {
+    "id": "f9111a5c-da69-4e39-b83a-10c0d5b0758a",
+    "title": "123 nombre 2",
+    "description": "catego 456 x",
+    "date": "2025-06-09",
+    "category": "789 descrip s2"
+  }
+]
